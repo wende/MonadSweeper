@@ -1,0 +1,35 @@
+[0m[[0mdebug[0m] [0mInvalidating /usr/lib/jvm/java-7-oracle/jre/lib/rt.jar: stamp changed from lastModified(1415561035000) to lastModified(1422198768000)[0m
+[0m[[0mdebug[0m] [0m[0m
+[0m[[0mdebug[0m] [0mInitial source changes: [0m
+[0m[[0mdebug[0m] [0m	removed:Set()[0m
+[0m[[0mdebug[0m] [0m	added: Set(/home/iraasta/Dropbox/SCALA/Projects/ScalaSwingGame/src/main/scala/GameEngine.scala)[0m
+[0m[[0mdebug[0m] [0m	modified: Set(/home/iraasta/Dropbox/SCALA/Projects/ScalaSwingGame/src/main/scala/Main.scala)[0m
+[0m[[0mdebug[0m] [0mRemoved products: Set(/home/iraasta/Dropbox/SCALA/Projects/ScalaSwingGame/target/scala-2.10/classes/Cell$$anonfun$neighbours$3.class, /home/iraasta/Dropbox/SCALA/Projects/ScalaSwingGame/target/scala-2.10/classes/Cell$$anonfun$Cell$$get$1$1.class, /home/iraasta/Dropbox/SCALA/Projects/ScalaSwingGame/target/scala-2.10/classes/Cell$$anonfun$neighbours$8.class, /home/iraasta/Dropbox/SCALA/Projects/ScalaSwingGame/target/scala-2.10/classes/Cell$$anonfun$explode$1$$anonfun$apply$5.class, /home/iraasta/Dropbox/SCALA/Projects/ScalaSwingGame/target/scala-2.10/classes/Cell.class, /home/iraasta/Dropbox/SCALA/Projects/ScalaSwingGame/target/scala-2.10/classes/Cell$$anonfun$bombCount$1.class, /home/iraasta/Dropbox/SCALA/Projects/ScalaSwingGame/target/scala-2.10/classes/Cell$$anonfun$explode$1$$anonfun$apply$5$$anonfun$apply$1.class, /home/iraasta/Dropbox/SCALA/Projects/ScalaSwingGame/target/scala-2.10/classes/Cell$$anonfun$explode$1.class, /home/iraasta/Dropbox/SCALA/Projects/ScalaSwingGame/target/scala-2.10/classes/Cell$$anonfun$neighbours$6.class, /home/iraasta/Dropbox/SCALA/Projects/ScalaSwingGame/target/scala-2.10/classes/Revealable$$anonfun$flag$1.class, /home/iraasta/Dropbox/SCALA/Projects/ScalaSwingGame/target/scala-2.10/classes/Cell$Percent$$anonfun$1.class, /home/iraasta/Dropbox/SCALA/Projects/ScalaSwingGame/target/scala-2.10/classes/Cell$$anonfun$check$1.class, /home/iraasta/Dropbox/SCALA/Projects/ScalaSwingGame/target/scala-2.10/classes/Cell$$anonfun$neighbours$5.class, /home/iraasta/Dropbox/SCALA/Projects/ScalaSwingGame/target/scala-2.10/classes/Cell$Percent.class, /home/iraasta/Dropbox/SCALA/Projects/ScalaSwingGame/target/scala-2.10/classes/Cell$$anonfun$explode$1$$anonfun$apply$5$$anonfun$apply$2.class, /home/iraasta/Dropbox/SCALA/Projects/ScalaSwingGame/target/scala-2.10/classes/Cell$$anonfun$neighbours$4.class, /home/iraasta/Dropbox/SCALA/Projects/ScalaSwingGame/target/scala-2.10/classes/Cell$$anonfun$bombCount$1$$anonfun$apply$3.class, /home/iraasta/Dropbox/SCALA/Projects/ScalaSwingGame/target/scala-2.10/classes/Revealable$class.class, /home/iraasta/Dropbox/SCALA/Projects/ScalaSwingGame/target/scala-2.10/classes/Cell$$anonfun$check$2.class, /home/iraasta/Dropbox/SCALA/Projects/ScalaSwingGame/target/scala-2.10/classes/Cell$$anonfun$onClick$1.class, /home/iraasta/Dropbox/SCALA/Projects/ScalaSwingGame/target/scala-2.10/classes/Cell$$anonfun$onClick$1$$anonfun$apply$4.class, /home/iraasta/Dropbox/SCALA/Projects/ScalaSwingGame/target/scala-2.10/classes/Cell$$anonfun$neighbours$7.class, /home/iraasta/Dropbox/SCALA/Projects/ScalaSwingGame/target/scala-2.10/classes/Revealable.class, /home/iraasta/Dropbox/SCALA/Projects/ScalaSwingGame/target/scala-2.10/classes/Revealable$$anonfun$click$1.class, /home/iraasta/Dropbox/SCALA/Projects/ScalaSwingGame/target/scala-2.10/classes/Cell$$anonfun$neighbours$1.class, /home/iraasta/Dropbox/SCALA/Projects/ScalaSwingGame/target/scala-2.10/classes/Cell$$anonfun$neighbours$2.class, /home/iraasta/Dropbox/SCALA/Projects/ScalaSwingGame/target/scala-2.10/classes/Cell$Percent$.class)[0m
+[0m[[0mdebug[0m] [0mExternal API changes: API Changes: Set()[0m
+[0m[[0mdebug[0m] [0mModified binary dependencies: Set(/usr/lib/jvm/java-7-oracle/jre/lib/rt.jar)[0m
+[0m[[0mdebug[0m] [0mInitial directly invalidated sources: Set(/home/iraasta/Dropbox/SCALA/Projects/ScalaSwingGame/src/main/scala/GameEngine.scala, /home/iraasta/Dropbox/SCALA/Projects/ScalaSwingGame/src/main/scala/Main.scala)[0m
+[0m[[0mdebug[0m] [0m[0m
+[0m[[0mdebug[0m] [0mSources indirectly invalidated by:[0m
+[0m[[0mdebug[0m] [0m	product: Set(/home/iraasta/Dropbox/SCALA/Projects/ScalaSwingGame/src/main/scala/Cell.scala)[0m
+[0m[[0mdebug[0m] [0m	binary dep: Set(/home/iraasta/Dropbox/SCALA/Projects/ScalaSwingGame/src/main/scala/Main.scala, /home/iraasta/Dropbox/SCALA/Projects/ScalaSwingGame/src/main/scala/Cell.scala)[0m
+[0m[[0mdebug[0m] [0m	external source: Set()[0m
+[0m[[0mdebug[0m] [0mAll initially invalidated sources: Set(/home/iraasta/Dropbox/SCALA/Projects/ScalaSwingGame/src/main/scala/GameEngine.scala, /home/iraasta/Dropbox/SCALA/Projects/ScalaSwingGame/src/main/scala/Main.scala, /home/iraasta/Dropbox/SCALA/Projects/ScalaSwingGame/src/main/scala/Cell.scala)[0m
+[0m[[0mdebug[0m] [0mRecompiling all 3 sources: invalidated sources (3) exceeded 50.0% of all sources[0m
+[0m[[0minfo[0m] [0mCompiling 3 Scala sources to /home/iraasta/Dropbox/SCALA/Projects/ScalaSwingGame/target/scala-2.10/classes...[0m
+[0m[[0mdebug[0m] [0mGetting compiler-interface from component compiler for Scala 2.10.4[0m
+[0m[[0mdebug[0m] [0mGetting compiler-interface from component compiler for Scala 2.10.4[0m
+[0m[[0mdebug[0m] [0mRunning cached compiler 6a2570bd, interfacing (CompilerInterface) with Scala compiler version 2.10.4[0m
+[0m[[0mdebug[0m] [0mCalling Scala compiler with arguments  (CompilerInterface):[0m
+[0m[[0mdebug[0m] [0m	-bootclasspath[0m
+[0m[[0mdebug[0m] [0m	/usr/lib/jvm/java-7-oracle/jre/lib/resources.jar:/usr/lib/jvm/java-7-oracle/jre/lib/rt.jar:/usr/lib/jvm/java-7-oracle/jre/lib/sunrsasign.jar:/usr/lib/jvm/java-7-oracle/jre/lib/jsse.jar:/usr/lib/jvm/java-7-oracle/jre/lib/jce.jar:/usr/lib/jvm/java-7-oracle/jre/lib/charsets.jar:/usr/lib/jvm/java-7-oracle/jre/lib/jfr.jar:/usr/lib/jvm/java-7-oracle/jre/classes:/root/.sbt/boot/scala-2.10.4/lib/scala-library.jar[0m
+[0m[[0mdebug[0m] [0m	-classpath[0m
+[0m[[0mdebug[0m] [0m	/home/iraasta/Dropbox/SCALA/Projects/ScalaSwingGame/target/scala-2.10/classes:/root/.ivy2/cache/org.scala-lang/scala-swing/jars/scala-swing-2.10.4.jar[0m
+[0m[[31merror[0m] [0m/home/iraasta/Dropbox/SCALA/Projects/ScalaSwingGame/src/main/scala/Main.scala:30: not found: value p[0m
+[0m[[31merror[0m] [0m  val timer = new Timer(10, p)[0m
+[0m[[31merror[0m] [0m                            ^[0m
+[0m[[31merror[0m] [0m/home/iraasta/Dropbox/SCALA/Projects/ScalaSwingGame/src/main/scala/Main.scala:11: not found: value p[0m
+[0m[[31merror[0m] [0m    contents = p[0m
+[0m[[31merror[0m] [0m               ^[0m
+[0m[[31merror[0m] [0mtwo errors found[0m
+[0m[[0mdebug[0m] [0mCompilation failed (CompilerInterface)[0m
+[0m[[31merror[0m] [0m(compile:[31mcompile[0m) Compilation failed[0m
